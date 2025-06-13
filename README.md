@@ -12,3 +12,5 @@
 - 👯 I am looking to collaborate with large technology companies.
 - 🤔 I am looking for help with my training. 
 - 💬 Ask me about all you like.
+
+![image](https://github.com/user-attachments/assets/213e7dcc-3583-4e90-9c7c-1ae1e9bc6d5c)
