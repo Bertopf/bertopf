@@ -13,4 +13,6 @@
 - 🤔 I am looking for help with my training. 
 - 💬 Ask me about all you like.
 
+[![image](https://github.com/user-attachments/assets/0f32a043-c67c-4015-9f83-010769bf271a)](https://open.spotify.com/playlist/37i9dQZF1E3a4h9xfegJWo?si=327236b93d694de0)
+
 
