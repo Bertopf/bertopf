@@ -1,4 +1,4 @@
-[![image](https://github.com/user-attachments/assets/4bd40c16-8f6c-4dd5-9f24-9433df8577e2)](https://www.instagram.com/bertopf_/)
+[![image](https://github.com/user-attachments/assets/6be2e34e-85aa-4730-bc54-6f6b384e06dd)](https://www.instagram.com/bertopf_/)
 ![image](https://github.com/user-attachments/assets/71b7f379-1a31-4eac-bd3c-28a7d960c608)
 
 
@@ -13,4 +13,4 @@
 - 🤔 I am looking for help with my training. 
 - 💬 Ask me about all you like.
 
-![image](https://github.com/user-attachments/assets/213e7dcc-3583-4e90-9c7c-1ae1e9bc6d5c)
+
