@@ -29,8 +29,8 @@
 <p align="left">
 <a href="https://dev.to/bertopf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bertopf" height="30" width="40" /></a>
 <a href="https://twitter.com/bertopf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bertopf" height="30" width="40" /></a>
-<a href="<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="alberto-pérez-fernández-b2b718177" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/alberto-p%C3%A9rez-fern%C3%A1ndez-b2b718177?trk=profile-badge">Alberto Pérez Fernández</a></div>
-              " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alberto-p%c3%a9rez-fern%c3%a1ndez-b2b718177/" height="30" width="40" /></a>
+<a  href="https://es.linkedin.com/in/alberto-p%C3%A9rez-fern%C3%A1ndez-b2b718177?trk=profile-badge" alt="https://www.linkedin.com/in/alberto-p%c3%a9rez-fern%c3%a1ndez-b2b718177/" 
+  height="30" width="40" /></a>
 <a href="https://codesandbox.com/bertopf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="bertopf" height="30" width="40" /></a>
 <a href="https://fb.com/bertopf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bertopf" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/bertopf_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bertopf_/" height="30" width="40" /></a>
