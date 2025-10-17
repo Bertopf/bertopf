@@ -51,3 +51,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bertopf&show_icons=true&locale=en" alt="bertopf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bertopf&" alt="bertopf" /></p>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="alberto-pérez-fernández-b2b718177" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/alberto-p%C3%A9rez-fern%C3%A1ndez-b2b718177?trk=profile-badge">Alberto Pérez Fernández</a></div>
+              
